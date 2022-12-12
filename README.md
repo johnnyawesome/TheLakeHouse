@@ -27,11 +27,44 @@ The [P5.Play-Library](https://p5play.org/) opens up some cool possibilities, bec
 - Builds the Lake-House🏠 at the Lake
 - Drops a Chest🎁 next to the Lake-House
 
-## 🌳Trees
+## Trees🌳
 
 - The Trees get generated semi-randomly. There is a check so they don't stand on top of each other
+- They also won't get placed in the Lake
 - Trees have a small Collider, so that the Animals have to walk around them
 
-## 🍎Food
+## Stones🪨
 
-- 
+- Stones are placed randomly on the Grass
+- Stones don't have Colliders, they are Decorations only
+
+## Food🍎
+
+- The Food (Apples🍎) gets randomly placed on the Grass
+- Once food is eaten, new Food will spawn in a random place, to replace the eaten Food
+- Food has a small Collider. Predators ignore Apples🍎 for Food. They can collide with the Apples and cast them away!
+
+## Prey-Animals🐰
+
+- There are 5 different Prey-Animals: A Mouse🐁, a Rabbit🐰, a White Rabbit🐰 and a Stag🦌
+- All Prey-Animals will search for Food
+- Each Prey-Animal will go to a different Apple 🍎, to avoid cluttering the Animals
+- Once an Apple is eaten, the Prey-Animal gets a temporary Speed-Boost!
+- If a Predator-Animal gets too close, the Prey-Animal wills top searching for Food and start avoiding the Predator-Animal
+- If a Predator-Animal catches a Prey-Animal, it dies and a new Prey-Animal is spawned to replace the one that died
+
+## Predator-Animals🐺
+
+- There are 4 different Predator-Animals: A Bear🐻, a Dog🐶, a Fox🦊 and a Wolf🐺
+- All Predator-Animals hunt Prey-Animals
+- Each Predator-Animal will hunt a different Prey-Animals, to avoid cluttering the Predator-Animals
+- When a Predator-Animal catches and eats a Prey-Animal, it too gets a temporary Speed-Boost
+- This means some Predator-Animals can become Apex Predators and go on long continuous Feeding Frenzies!
+
+## Water-Animals
+
+- My favorite Part of this Project! 💙
+- Water-Animals don't do much, but they look the cutest, the Pixel-Art by [chien_bleu](https://chien-bleu.itch.io/) absolutely shines here!
+- There are 7 different Water-Animals: A Frog🐸, a Turtle🐢, a Mallard🦆, a White-Black Duck, a Brown Duck, a White Duck and  Grey Duck
+- They Spawn in a rnadom Place on the Lake
+- Water-Animals don't do much, they just swim around on the Lake
