@@ -1,6 +1,5 @@
 # 🏞️🏠TheLakeHouse🏠🏞️
-Cute Pixel-Art Nature-Simulation. Herbivores search for Apples, Predators hunt for Prey! Written in P5JS.
-
+Cute Pixel-Art Nature-Simulation. Herbivores search for Apples, Predators hunt for Prey! Written in [P5JS](https://p5js.org/) using the [P5.Play-Library](https://p5play.org/) and the [Planck Physics Engine](https://piqnt.com/planck.js/).
 
 
 ![TheLakeHouse](https://raw.githubusercontent.com/johnnyawesome/TheLakeHouse/main/TheLakeHouse/DemoImages/TheLakeHouse.gif)
