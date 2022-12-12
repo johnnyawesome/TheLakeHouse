@@ -21,8 +21,8 @@ The [P5.Play-Library](https://p5play.org/) opens up some cool possibilities, bec
 - Generate the Lake🏞️
 - Randomly scatters a few Stones🪨
 - Randomly generate the Trees🌳
-- Randomly chooses the Predators🐺 out of a Pool of 4 (Bear🐻, Dog🐶, Fox🦊, Wolf🐺) and places them randomly on the Map
-- Randomly chooses the Herbivores🐰 out of a Pool of 5 (Mouse🐁, Rabbit🐰, White Rabbit🐰, Stag🦌) and places them randomly on the Map
+- Randomly chooses the Predators🐺 out of a Pool of 5 (Bear🐻, Dog🐶, Fox🦊, Wolf🐺, Snake🐍) and places them randomly on the Map
+- Randomly chooses the Herbivores🐰 out of a Pool of 6 (Mouse🐁, Rabbit🐰, White Rabbit🐰, Stag🦌, Raccoon🦝, Squirrel🐿️) and places them randomly on the Map
 - Randomly scatters Apples🍎 as Food for the Herbivores🐰
 - Randomly chooses the Water-Animals out of a Pool of 7 (Frog🐸, Turtle🐢, Mallard🦆, White-Black Duck🦆, Brown Duck🦆, White Duck🦆, Grey Duck🦆) and places them on a random spot on the Lake
 - Builds the Lake-House🏠 at the Lake
@@ -47,7 +47,7 @@ The [P5.Play-Library](https://p5play.org/) opens up some cool possibilities, bec
 
 ## Prey-Animals🐰
 
-- There are 5 different Prey-Animals: A Mouse🐁, a Rabbit🐰, a White Rabbit🐰 and a Stag🦌
+- There are 6 different Prey-Animals: A Mouse🐁, a Rabbit🐰, a White Rabbit🐰, a Stag🦌, a Raccoon🦝 and a Squirrel🐿️
 - All Prey-Animals will search for Food (Apples)
 - Each Prey-Animal will go to a different Apple 🍎, to avoid cluttering the Animals
 - Once a Prey-Animal has eaten an Apple, it gets a temporary Speed-Boost!
@@ -56,7 +56,7 @@ The [P5.Play-Library](https://p5play.org/) opens up some cool possibilities, bec
 
 ## Predator-Animals🐺
 
-- There are 4 different Predator-Animals: A Bear🐻, a Dog🐶, a Fox🦊 and a Wolf🐺
+- There are 4 different Predator-Animals: A Snake🐍, a Bear🐻, a Fox🦊, a Wolf🐺 and a Dog🐶
 - All Predator-Animals hunt Prey-Animals
 - Each Predator-Animal will hunt a different Prey-Animal, to avoid cluttering the Predator-Animals
 - When a Predator-Animal catches and eats a Prey-Animal, it too gets a temporary Speed-Boost!
