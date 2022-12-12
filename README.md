@@ -70,4 +70,4 @@ The [P5.Play-Library](https://p5play.org/) opens up some cool possibilities, bec
 - They Spawn in a random Place on the Lake
 - Water-Animals don't do much, they just swim around on the Lake
 
-![TheLakeHouse](https://raw.githubusercontent.com/johnnyawesome/TheLakeHouse/main/TheLakeHouse/DemoImages/TheLakeHouse1.gif)
+![TheLakeHouse](https://raw.githubusercontent.com/johnnyawesome/TheLakeHouse/main/TheLakeHouse/DemoImages/TheLakeHouse2.gif)
