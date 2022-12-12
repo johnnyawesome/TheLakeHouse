@@ -19,7 +19,7 @@ The [P5.Play-Library](https://p5play.org/) opens up some cool possibilities, bec
 - Generate the Background Grass-Tiles🌱
 - Generate the Lake🏞️
 - Randomly scatters a few Stones🪨
-- Randomly generate the Trees🌳
+- Randomly generate the Trees🌳.
 - Randomly chooses the Predators🐺 out of a Pool of 4 (Bear🐻, Dog🐶, Fox🦊, Wolf🐺) and places them randomly on the Map
 - Randomly chooses the Herbivores🐰 out of a Pool of 5 (Mouse🐁, Rabbit🐰, White Rabbit🐰, Stag🦌) and places them randomly on the Map
 - Randomly scatters Apples🍎 as Food for the Herbivores🐰
@@ -27,3 +27,11 @@ The [P5.Play-Library](https://p5play.org/) opens up some cool possibilities, bec
 - Builds the Lake-House🏠 at the Lake
 - Drops a Chest🎁 next to the Lake-House
 
+## 🌳Trees
+
+- The Trees get generated semi-randomly. There is a check so they don't stand on top of each other
+- Trees have a small Collider, so that the Animals have to walk around them
+
+## 🍎Food
+
+- 
