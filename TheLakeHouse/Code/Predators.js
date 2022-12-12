@@ -13,7 +13,7 @@ function generatePredators() {
 
 
   //Generate one Predator of each kind 
-  for (const predator of ["Bear", "Dog", "Fox", "Wolf"]) {
+  for (const predator of ["Bear", "Dog", "Fox", "Wolf", "Snake"]) {
 
     if (predators.length >= numberOfPredators) return;
 

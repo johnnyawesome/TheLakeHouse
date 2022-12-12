@@ -31,6 +31,7 @@ function preload() {
   predators.addAni("Dog", '../Sprites/PixelAnimals/Dog1.png', 2);
   predators.addAni("Fox", '../Sprites/PixelAnimals/Fox1.png', 2);
   predators.addAni("Wolf", '../Sprites/PixelAnimals/Wolf1.png', 2);
+  predators.addAni("Snake", '../Sprites/PixelAnimals/Snake1.png', 2);
   predators.rotationLock = true;
   //Custom Properties
   //Name of the Prey (Used for Food-Reservations)
@@ -43,9 +44,9 @@ function preload() {
   prey.addAni("Mouse", '../Sprites/PixelAnimals/Mouse1.png', 2);
   prey.addAni("Rabbit", '../Sprites/PixelAnimals/Rabbit1.png', 2);
   prey.addAni("WhiteRabbit", '../Sprites/PixelAnimals/WhiteRabbit1.png', 2);
-  //prey.addAni("Racoon", '../Sprites/PixelAnimals/Racoon1.png', 2);
   prey.addAni("Squirrel", '../Sprites/PixelAnimals/Squirrel1.png', 2);
   prey.addAni("Stag", '../Sprites/PixelAnimals/Stag1.png', 2);
+  prey.addAni("Raccoon", '../Sprites/PixelAnimals/Raccoon1.png', 2);
   //Prey Settings
   prey.rotationLock = true;
   prey.directionOff = () => random(0, 100);

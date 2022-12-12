@@ -13,7 +13,7 @@ function generatePrey() {
   //New Sprite
   new prey.Sprite(round(random(edgeDistance, width - edgeDistance)), round(random(edgeDistance, (height / 3) * 2 - edgeDistance)), animalCollisionBoxDiameter);
   //Random Animal-Sprite
-  prey[prey.length - 1].ani = random(["Mouse", "Rabbit", "WhiteRabbit", "Squirrel", "Stag"]);
+  prey[prey.length - 1].ani = random(["Mouse", "Rabbit", "WhiteRabbit", "Squirrel", "Stag", "Raccoon"]);
   //Frame-Delay for smoother Animation
   prey[prey.length - 1].ani.frameDelay = animalFrameDelay;
   //Reduced Friction for Tree-Collisions
