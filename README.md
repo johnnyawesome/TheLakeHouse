@@ -8,6 +8,8 @@ Cute Pixel-Art Nature-Simulation. Herbivores search for Apples, Predators hunt f
 
 **Animals & Tile-Set**: [chien_bleu](https://chien-bleu.itch.io/) License according to [chien_bleu](https://chien-bleu.itch.io/): ["Feel free to use any of those however you want!"](https://chien-bleu.itch.io/forest-animals)
 
+Kudos to [chien_bleu](https://chien-bleu.itch.io/)! Pixel-Art is as much about the Retro-Flair as it is Minimalism. And [chien_bleu's work](https://chien-bleu.itch.io/forest-animals) is minimalism at it's finest! Every Animal is made with a bare-bones, no-nonsense approach and yet they all are immediately recognizeable. Chapeau! 
+
 ## About the Project
 
 The Code is written in [P5JS](https://p5js.org/). It makes use of the [P5.Play-Library](https://p5play.org/).
