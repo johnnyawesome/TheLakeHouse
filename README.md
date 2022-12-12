@@ -51,7 +51,7 @@ The [P5.Play-Library](https://p5play.org/) opens up some cool possibilities, bec
 - All Prey-Animals will search for Food (Apples)
 - Each Prey-Animal will go to a different Apple 🍎, to avoid cluttering the Animals
 - Once a Prey-Animal has eaten an Apple, it gets a temporary Speed-Boost!
-- If a Predator-Animal gets too close, the Prey-Animal wills top searching for Food and start avoiding the Predator-Animal
+- If a Predator-Animal gets too close, the Prey-Animal will stop searching for Food and start avoiding the Predator-Animal
 - If a Predator-Animal catches a Prey-Animal, it dies and a new Prey-Animal is spawned to replace the one that died
 
 ## Predator-Animals🐺
