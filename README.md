@@ -6,7 +6,7 @@ Cute Pixel-Art Nature-Simulation. Herbivores search for Apples, Predators hunt f
 
 ## Copyright & Attribution
 
-**Animals & Tile-Set**: [chien_bleu](https://chien-bleu.itch.io/) License according to chien_bleu: ["Feel free to use any of those however you want!"](https://chien-bleu.itch.io/forest-animals)
+**Animals & Tile-Set**: [chien_bleu](https://chien-bleu.itch.io/) License according to [chien_bleu](https://chien-bleu.itch.io/): ["Feel free to use any of those however you want!"](https://chien-bleu.itch.io/forest-animals)
 
 ## About the Project
 
