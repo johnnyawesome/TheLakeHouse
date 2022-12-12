@@ -68,3 +68,5 @@ The [P5.Play-Library](https://p5play.org/) opens up some cool possibilities, bec
 - There are 7 different Water-Animals: A Frog🐸, a Turtle🐢, a Mallard🦆, a White-Black Duck, a Brown Duck, a White Duck and  Grey Duck
 - They Spawn in a rnadom Place on the Lake
 - Water-Animals don't do much, they just swim around on the Lake
+
+![TheLakeHouse](https://raw.githubusercontent.com/johnnyawesome/TheLakeHouse/main/TheLakeHouse/DemoImages/TheLakeHouse.gif)
